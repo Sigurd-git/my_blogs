@@ -37,7 +37,7 @@ diskutil eraseDisk FAT32 RASPBERRY MBRFormat /dev/disk4
 
 ## 3. 烧录镜像
 
-解压下载好的镜像，我这里是ubuntu-22.04.2-preinstalled-server-arm64+raspi.img.xz
+解压下载好的镜像，我这里是2023-05-03-raspios-bullseye-arm64.img.xz
 然后使用dd命令烧录镜像到SD卡
 
 
